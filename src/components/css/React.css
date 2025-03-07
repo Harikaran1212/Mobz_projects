@@ -1,0 +1,53 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.full{
+    width: 99.4%;
+
+}
+
+.home{
+    padding: 5px;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid black; 
+    padding: 20px;
+ }
+
+ .listbox{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+ }
+
+
+.list li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    width: 570px;
+
+}
+.card{
+    box-shadow: inset 2px 0 13px 5px rgb(221, 215, 63);
+    padding: 15px 2px;
+}
+
+
+ .boxer{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content h3{
+     font-weight: bolder;
+     font-size: 1.2rem;   
+}

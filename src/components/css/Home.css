@@ -1,0 +1,69 @@
+body{
+    overflow-y:scroll ;
+}
+
+.home{
+    width: 100%;
+}
+
+.image{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 70px;
+    align-items: center;
+    padding: 30px;
+}
+
+.image img{
+    height: 34vh;
+    width: 23%;
+    padding: 3px;
+    outline: 2px solid #fcd10a;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 5px #fcd10a;
+}
+
+.image img:hover{
+    transition: 0.5s;
+    height: 32vh;
+    width: 21%;
+}
+
+.text{
+    width: 100% ;
+    padding: 20px;  
+    text-align: justify;
+    font-family:cursive ;
+   
+} 
+
+p span{
+    color:gold;
+    font-weight: bold;
+}
+
+.about{
+    padding: 10px;
+}
+
+.about h1{
+    text-align: center;
+    color:gold;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+ul li{
+    list-style-type: none;
+    text-align: justify;
+    width: 95%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
