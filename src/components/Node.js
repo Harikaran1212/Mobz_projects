@@ -44,7 +44,7 @@ display the data which webservice/API will return.</li>
         </ul>
         </div>
         <div className='card'>
-        <Link className='boxer' to="https://node-task-2-90yk.onrender.com/" target='_blank'><img src="/image/Node/Node task 1.png" alt="logo" height={250} width={450} /><figcaption> click the image</figcaption></Link>
+        <Link className='boxer' to="https://node-task-2-90yk.onrender.com/" target='_blank'><img src="/image/Node/Node task 2.png" alt="logo" height={250} width={450} /><figcaption> click the image</figcaption></Link>
         
         </div>
         </div>
